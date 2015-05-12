@@ -7,10 +7,6 @@
   "version": "2011",
   "last_updated": "2011-09-21",
   "image": "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
-  "sources": [{
-    "name": "World Bank and OECD",
-    "web": "http://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
-  }],
   "resources": [
     {
       "path": "data/gdp.csv",
